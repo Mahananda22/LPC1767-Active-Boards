@@ -1,0 +1,11 @@
+.\uart2.o: UART2.c
+.\uart2.o: UART2.h
+.\uart2.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\uart2.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\uart2.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\uart2.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\uart2.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\uart2.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\uart2.o: command_processor.h
+.\uart2.o: gpio.h
+.\uart2.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h

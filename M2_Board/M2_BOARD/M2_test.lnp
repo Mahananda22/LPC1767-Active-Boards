@@ -1,0 +1,14 @@
+--cpu Cortex-M3
+".\startup_lpc17xx.o"
+".\main.o"
+".\uart.o"
+".\can.o"
+".\gpio.o"
+".\command_processor.o"
+".\dac.o"
+".\spi.o"
+".\system_lpc17xx 2.o"
+--strict --scatter ".\M2_test.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\M2_test.map" -o .\M2_test.axf

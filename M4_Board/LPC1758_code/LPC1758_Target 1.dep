@@ -1,0 +1,54 @@
+Dependencies for Project 'LPC1758', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x686CE289)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (.\UART2.c)(0x6881D810)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\uart2.o --omf_browse .\uart2.crf --depend .\uart2.d)
+I (UART2.h)(0x6881D6E7)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x68414190)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (command_processor.h)(0x6881D83C)
+I (gpio.h)(0x6881D0DA)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C7E87C)
+F (.\Main.c)(0x6882331C)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (UART2.h)(0x6881D6E7)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x68414190)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (pinsel.h)(0x6881D8CB)
+I (gpio.h)(0x6881D0DA)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C7E87C)
+I (command_processor.h)(0x6881D83C)
+F (..\..\Downloads\system_LPC17xx 2 1.c)(0x68257D74)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o ".\system_lpc17xx 2 1.o" --omf_browse ".\system_lpc17xx 2 1.crf" --depend ".\system_lpc17xx 2 1.d")
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x68414190)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+F (.\gpio.c)(0x6881FFFE)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\gpio.o --omf_browse .\gpio.crf --depend .\gpio.d)
+I (gpio.h)(0x6881D0DA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C7E87C)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x68414190)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+F (.\command_processor.h)(0x6881D83C)()
+F (.\command_processor.c)(0x68822E23)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-o .\command_processor.o --omf_browse .\command_processor.crf --depend .\command_processor.d)
+I (command_processor.h)(0x6881D83C)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (gpio.h)(0x6881D0DA)
+I (C:\Keil\ARM\ARMCC\include\stddef.h)(0x51C7E87C)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x68414190)
+I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x532C1734)
+I (UART2.h)(0x6881D6E7)
+F (.\pinsel.h)(0x6881D8CB)()

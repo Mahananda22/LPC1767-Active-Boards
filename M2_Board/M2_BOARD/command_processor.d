@@ -1,0 +1,13 @@
+.\command_processor.o: command_processor.c
+.\command_processor.o: command_processor.h
+.\command_processor.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\command_processor.o: gpio.h
+.\command_processor.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\command_processor.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\command_processor.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\command_processor.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\command_processor.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\command_processor.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\command_processor.o: uart.h
+.\command_processor.o: spi.h
+.\command_processor.o: dac.h

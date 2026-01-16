@@ -1,0 +1,12 @@
+.\main.o: Main.c
+.\main.o: UART2.h
+.\main.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\main.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\main.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\main.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\main.o: pinsel.h
+.\main.o: gpio.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\main.o: command_processor.h
